@@ -2,6 +2,8 @@
 
 I'm a full-stack web developer focused on useful products, polished interfaces, and browser-first experiences. I enjoy turning ambitious ideas into responsive, accessible software that people can use immediately.
 
+**[View my portfolio →](https://malikahed.github.io/portfolio/)**
+
 ## Selected work
 
 | Project | What it does | Explore |
@@ -10,7 +12,6 @@ I'm a full-stack web developer focused on useful products, polished interfaces, 
 | **Cube Burger** | An art-directed restaurant landing page built for strong responsive composition. | [Live demo](https://malikahed.github.io/cube-burger-site/) · [Source](https://github.com/MalikAhed/cube-burger-site) |
 | **Murajaa** | An Arabic-first study companion for Palestinian Tawjihi students, with offline PWA support. | [Live demo](https://malikahed.github.io/Murajaa/) · [Source](https://github.com/MalikAhed/Murajaa) |
 | **Zen Cleaning** | A responsive service website with clear offerings and booking-focused UX. | [Live demo](https://malikahed.github.io/zen/) · [Source](https://github.com/MalikAhed/zen) |
-| **Learnify** | A full-stack learning platform built with Node.js, Express, and server-rendered views. | [Source](https://github.com/MalikAhed/learnify) |
 
 ## What I work with
 
