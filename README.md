@@ -1,4 +1,4 @@
-# Hi, I'm Malik 👋
+# Hi, I'm Malik 
 
 I'm a full-stack web developer focused on useful products, polished interfaces, and browser-first experiences. I enjoy turning ambitious ideas into responsive, accessible software that people can use immediately.
 
