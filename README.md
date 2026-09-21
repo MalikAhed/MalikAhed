@@ -8,6 +8,7 @@ I'm a full-stack web developer focused on useful products, polished interfaces, 
 
 | Project | What it does | Explore |
 | --- | --- | --- |
+| **Canvas Studio** | Arrange editable canvases, annotate PDFs, and record presentations directly in the browser. | [Live demo](https://malikahed.github.io/canvas/) · [Source](https://github.com/MalikAhed/canvas) |
 | **StockThink** | Free, private chess game review powered by Stockfish in the browser. | [Source](https://github.com/MalikAhed/stockthink) |
 | **Cube Burger** | An art-directed restaurant landing page built for strong responsive composition. | [Live demo](https://malikahed.github.io/cube-burger-site/) · [Source](https://github.com/MalikAhed/cube-burger-site) |
 | **Murajaa** | An Arabic-first study companion for Palestinian Tawjihi students, with offline PWA support. | [Live demo](https://malikahed.github.io/Murajaa/) · [Source](https://github.com/MalikAhed/Murajaa) |
