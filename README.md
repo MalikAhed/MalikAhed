@@ -26,3 +26,10 @@ I'm a full-stack web developer focused on useful products, polished interfaces, 
 - Clear documentation and reproducible setup
 
 I'm currently improving my full-stack craft and building projects that solve real problems. You can explore the repositories above or follow my latest work here on GitHub.
+
+## License
+
+Original contributions by Malik Abuallatta are licensed under the
+[MIT License](LICENSE). Third-party code, adaptations, dependencies, and assets
+retain their existing licenses and notices. This license does not grant new
+rights to third-party material.
