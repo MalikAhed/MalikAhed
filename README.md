@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-## Toolbelt
+## What I work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,vite,sqlite,threejs,python,git,githubactions&perline=7" alt="JavaScript, TypeScript, Node.js, React, HTML, CSS, Tailwind, Vite, SQLite, Three.js, Python, Git, and GitHub Actions" />
