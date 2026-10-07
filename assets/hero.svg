@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Malik Abuallatta — building useful things for the browser</title>
+<desc id="desc">A midnight-blue engineering canvas with a slowly orbiting wireframe sphere, flowing signals, and a mint accent. Full-stack developer and product builder from Palestine.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081521"/><stop offset="1" stop-color="#10283b"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#7c9cff"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#2dd4bf" stop-opacity=".18"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8caec8" stroke-opacity=".07"/></pattern>
+<style>
+.orbit{transform-origin:790px 169px;animation:orbit 28s linear infinite}.flow{stroke-dasharray:8 18;animation:flow 6s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-208}}@keyframes pulse{50%{opacity:.4}}
+@media(prefers-reduced-motion:reduce){.orbit,.flow,.pulse{animation:none}}
+</style>
+</defs>
+<rect width="1000" height="360" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="358" rx="19" fill="url(#grid)" stroke="#234056"/>
+<circle cx="790" cy="169" r="200" fill="url(#glow)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="36" y="30" width="164" height="25" rx="12" fill="#173b3c"/>
+<circle cx="51" cy="42" r="3.5" fill="#5eead4" class="pulse"/>
+<text x="63" y="46" fill="#99f6e4" font-size="11" letter-spacing="1.6">MALIK / BUILDER</text>
+<text x="38" y="119" font-size="49" font-weight="700" fill="#f3f8fc" letter-spacing="-1.7">Malik Abuallatta<tspan fill="#5eead4">.</tspan></text>
+<text x="40" y="159" font-size="22" fill="#bed2e2">Useful products. Thoughtful interfaces.</text>
+<text x="40" y="187" font-size="22" fill="#bed2e2">A little wonder in the browser.</text>
+<text x="40" y="226" font-size="14" fill="#82a4be">FULL-STACK DEVELOPMENT  /  CREATIVE WEB  /  PALESTINE</text>
+<path d="M40 256H960" stroke="#284354"/>
+<text x="40" y="292" font-size="12" fill="#7f9db3" letter-spacing="1.5">CURRENTLY BUILDING</text>
+<text x="40" y="320" font-size="20" font-weight="700" fill="#e9f5fa">Khotwa</text>
+<text x="136" y="320" font-size="14" fill="#9ab4c7">Arabic-first learning, one clear step at a time.</text>
+<rect x="742" y="282" width="218" height="43" rx="9" fill="#173437" stroke="#315d58"/>
+<circle cx="760" cy="303" r="4" fill="#5eead4" class="pulse"/>
+<text x="775" y="308" font-size="13" fill="#baf7e7">Open to frontend + full-stack</text>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="1.2">
+<circle cx="790" cy="169" r="78" stroke-opacity=".6"/>
+<ellipse cx="790" cy="169" rx="78" ry="28" stroke-opacity=".55"/>
+<ellipse cx="790" cy="169" rx="30" ry="78" stroke-opacity=".6"/>
+<path d="M712 169H868M790 91V247" stroke-opacity=".35"/>
+<g class="orbit"><ellipse cx="790" cy="169" rx="113" ry="45" transform="rotate(-28 790 169)"/><circle cx="890" cy="116" r="4" fill="#5eead4" stroke="none"/></g>
+<path class="flow" d="M623 62H683L707 86M889 225H926V124H955" stroke-opacity=".55"/>
+</g>
+<g fill="#a5f3fc"><circle cx="691" cy="62" r="2"/><circle cx="939" cy="63" r="2"/><circle cx="912" cy="208" r="2"/><circle cx="651" cy="206" r="2"/></g>
+<text x="717" y="53" fill="#6b94ac" font-family="monospace" font-size="10" letter-spacing="2">IDEA → INTERFACE</text>
+</svg>
