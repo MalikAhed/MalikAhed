@@ -67,10 +67,13 @@
 
 ## How I work
 
-- Ship a clear product before adding more surface area.
-- Keep interfaces responsive, semantic, and accessible.
-- Prefer small systems that are easy to inspect and reproduce.
-- Write clear user stories before shaping the interface.
-- Use documentation, tests, and source provenance to make work easier to trust.
+```mermaid
+flowchart TD
+    A[Understand the user] --> B[Write clear user stories]
+    B --> C[Shape the product flow]
+    C --> D[Build a responsive interface]
+    D --> E[Test real interactions]
+    E --> F[Document and refine]
+```
 
 <p align="center"><strong>Open to full-stack, frontend, developer-tool, and educational technology opportunities.</strong></p>
