@@ -1,8 +1,20 @@
 # Malik Abuallatta
 
-**Full-stack developer and product builder from Palestine building browser-first products, accessible interfaces, and useful developer tools.**
+<p align="center">
+  <strong>Full-stack developer and product builder from Palestine building browser-first products, accessible interfaces, and useful developer tools.</strong>
+</p>
 
-[Portfolio](https://malikahed.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/malik-abuallatta-a6849a37b/) · [Email](mailto:malikabuallatta@gmail.com)
+<p align="center">
+  <a href="https://malikahed.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/">LinkedIn</a> ·
+  <a href="mailto:malikabuallatta@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_work- full--stack%20%7C%20frontend-22c55e?style=flat-square" alt="Open to full-stack and frontend work" />
+  <img src="https://img.shields.io/badge/Building-Khotwa-7c3aed?style=flat-square" alt="Building Khotwa" />
+  <img src="https://img.shields.io/badge/Location-Palestine-0ea5e9?style=flat-square" alt="Based in Palestine" />
+</p>
 
 ## What I build
 
@@ -10,14 +22,20 @@ I turn complex workflows into clear, fast web products. My work combines **JavaS
 
 My main product is **Khotwa**, an Arabic-first Tawjihi learning platform for Palestinian students. It converts official material into source-grounded lessons, practice questions, worked solutions, review cards, and progress tracking.
 
+## Toolbelt
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,vite,sqlite,threejs,git,githubactions" alt="JavaScript, TypeScript, Node.js, React, HTML, CSS, Vite, SQLite, Three.js, Git, and GitHub Actions" />
+</p>
+
 ## Selected projects
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[Khotwa · Tawjihi Learning App](https://github.com/MalikAhed/tawjihi-learning-app)** | RTL learning product with structured content, practice flows, source provenance, and a live preview: [open demo](https://malikahed.github.io/tawjihi-learning-app/). |
+| **[Khotwa · Tawjihi Learning App](https://github.com/MalikAhed/tawjihi-learning-app)** | RTL learning product with structured content, practice flows, source provenance, and a live preview. [![Live demo](https://img.shields.io/badge/Live_demo-Visit-22c55e?style=flat-square)](https://malikahed.github.io/tawjihi-learning-app/) |
 | **[StockThink](https://github.com/MalikAhed/stockthink)** | Private, zero-server chess analysis using Stockfish WebAssembly, typed board facts, and explainable move commentary. |
 | **[Murajaa](https://github.com/MalikAhed/Murajaa)** | Offline-first Arabic flashcard PWA with spaced repetition, RTL support, local progress, and JSON deck import/export. |
-| **[Portfolio World](https://github.com/MalikAhed/portfolio)** | Three.js portfolio focused on interaction design, composition, responsive behavior, and performance. |
+| **[Portfolio World](https://github.com/MalikAhed/portfolio)** | Three.js portfolio focused on interaction design, composition, responsive behavior, and performance. [![Explore](https://img.shields.io/badge/Explore-Portfolio-7c3aed?style=flat-square)](https://malikahed.github.io/portfolio/) |
 | **[Rocket Arena Web](https://github.com/MalikAhed/rocket-arena-web)** | Playable browser game with AI opponents and a complete web build. |
 
 ## How I work
@@ -26,9 +44,5 @@ My main product is **Khotwa**, an Arabic-first Tawjihi learning platform for Pal
 - Keep interfaces responsive, semantic, and accessible.
 - Prefer small, inspectable systems with reproducible setup.
 - Use documentation, tests, and source provenance to make work easier to trust.
-
-## Core tools
-
-JavaScript · TypeScript · Node.js · HTML/CSS · React · Vite · SQLite · Three.js · WebGL · GitHub Actions
 
 I’m open to **full-stack, frontend, product engineering, developer-tool, and educational technology** opportunities.
