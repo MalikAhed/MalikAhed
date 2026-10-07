@@ -68,12 +68,16 @@
 ## How I work
 
 ```mermaid
-flowchart TD
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#ffffff", "primaryTextColor": "#111827", "primaryBorderColor": "#111827", "lineColor": "#6b7280", "secondaryColor": "#ffffff", "tertiaryColor": "#ffffff"}}}%%
+flowchart LR
     A[Understand the user] --> B[Write clear user stories]
     B --> C[Shape the product flow]
     C --> D[Build a responsive interface]
     D --> E[Test real interactions]
     E --> F[Document and refine]
+
+    classDef clean fill:#ffffff,stroke:#111827,stroke-width:1px,color:#111827;
+    class A,B,C,D,E,F clean;
 ```
 
 <p align="center"><strong>Open to full-stack, frontend, developer-tool, and educational technology opportunities.</strong></p>
