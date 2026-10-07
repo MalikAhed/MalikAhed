@@ -41,13 +41,13 @@
 <tr>
 <td width="50%" valign="top" bgcolor="#fafaf8">
 <a href="https://malikahed.github.io/tawjihi-learning-app/"><img src="./tawjihi%20app%20khutwa.png" alt="Khotwa Tawjihi learning app" width="100%" /></a>
-<h3><a href="https://malikahed.github.io/tawjihi-learning-app/">Khotwa · Tawjihi Learning App</a></h3>
+<h3>Khotwa · Tawjihi Learning App</h3>
 <p>Arabic-first learning workspace for Palestinian Tawjihi students with structured lessons, practice questions, worked solutions, review cards, and progress tracking.</p>
 <p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/PWA-3d3d3a?style=flat-square&logo=pwa&logoColor=ffffff" alt="PWA" /> <img src="https://img.shields.io/badge/RTL-555550?style=flat-square" alt="RTL" /></p>
 </td>
 <td width="50%" valign="top" bgcolor="#f3f3ef">
 <a href="https://malikahed.github.io/Murajaa/"><img src="./muraja.png" alt="Murajaa Arabic flashcard app" width="100%" /></a>
-<h3><a href="https://malikahed.github.io/Murajaa/">Murajaa</a></h3>
+<h3>Murajaa</h3>
 <p>Offline-first Arabic flashcards with spaced repetition, RTL support, progress tracking, and JSON import/export.</p>
 <p><img src="https://img.shields.io/badge/HTML-2b2b2b?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" /> <img src="https://img.shields.io/badge/Offline--first-3d3d3a?style=flat-square" alt="Offline first" /> <img src="https://img.shields.io/badge/Accessibility-555550?style=flat-square" alt="Accessibility" /></p>
 </td>
@@ -55,13 +55,13 @@
 <tr>
 <td width="50%" valign="top" bgcolor="#f3f3ef">
 <a href="https://malikahed.github.io/stockthink/"><img src="./stockthink.png" alt="StockThink chess analysis" width="100%" /></a>
-<h3><a href="https://malikahed.github.io/stockthink/">StockThink</a></h3>
+<h3>StockThink</h3>
 <p>Private, zero-server chess analysis in the browser using Stockfish WebAssembly and explainable move commentary.</p>
 <p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/WebAssembly-3d3d3a?style=flat-square" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Stockfish-555550?style=flat-square" alt="Stockfish" /></p>
 </td>
 <td width="50%" valign="top" bgcolor="#fafaf8">
 <a href="https://malikahed.github.io/portfolio/"><img src="./portfolio.png" alt="Portfolio World interactive portfolio" width="100%" /></a>
-<h3><a href="https://malikahed.github.io/portfolio/">Portfolio World</a></h3>
+<h3>Portfolio World</h3>
 <p>A cinematic Three.js portfolio for selected browser products, experiments, and case-study links.</p>
 <p><img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=ffffff" alt="Three.js" /> <img src="https://img.shields.io/badge/WebGL-3d3d3a?style=flat-square" alt="WebGL" /> <img src="https://img.shields.io/badge/GSAP-555550?style=flat-square" alt="GSAP" /></p>
 </td>
@@ -69,13 +69,13 @@
 <tr>
 <td width="50%" valign="top" bgcolor="#fafaf8">
 <a href="https://malikahed.github.io/rocket-arena-web/"><img src="./rocket%20arena.png" alt="Rocket Arena browser game" width="100%" /></a>
-<h3><a href="https://malikahed.github.io/rocket-arena-web/">Rocket Arena Web</a></h3>
+<h3>Rocket Arena Web</h3>
 <p>A compact browser car-soccer game with AI opponents, responsive controls, and a complete web build.</p>
 <p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/Game%20AI-3d3d3a?style=flat-square" alt="Game AI" /> <img src="https://img.shields.io/badge/Canvas-555550?style=flat-square" alt="Canvas" /></p>
 </td>
 <td width="50%" valign="top" bgcolor="#f3f3ef">
-<a href="https://github.com/MalikAhed/our-version-of-black-hole"><img src="./assets/readme-grid.svg" alt="Our version of a black hole" width="100%" /></a>
-<h3><a href="https://github.com/MalikAhed/our-version-of-black-hole">Our Version of a Black Hole</a></h3>
+<a href="https://github.com/MalikAhed/our-version-of-black-hole"><img src="https://opengraph.githubassets.com/1/MalikAhed/our-version-of-black-hole" alt="Our version of a black hole" width="100%" /></a>
+<h3>Our Version of a Black Hole</h3>
 <p>Interactive Schwarzschild black hole experiment with procedural line paths, Three.js, and Unreal Bloom.</p>
 <p><img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=ffffff" alt="Three.js" /> <img src="https://img.shields.io/badge/WebGL-3d3d3a?style=flat-square" alt="WebGL" /> <img src="https://img.shields.io/badge/Experiment-555550?style=flat-square" alt="Experiment" /></p>
 </td>
