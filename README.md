@@ -17,7 +17,7 @@
       <h3>What I build</h3>
       <p>I turn complex workflows into calm, useful browser products that help people learn, decide, and get things done.</p>
       <p>My work spans learning platforms, offline-first PWAs, developer tools, and interactive WebGL experiences, with a focus on clear flows and thoughtful details.</p>
-      <p><strong>Khotwa</strong> is my main learning product: a structured workspace that connects trusted source material, practice, worked solutions, review cards, and measurable progress.</p>
+      <p><strong>Khotwa</strong> is my education startup: a structured learning workspace that connects trusted source material, practice, worked solutions, review cards, and measurable progress.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Currently focused on</h3>
