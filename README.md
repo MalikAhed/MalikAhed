@@ -41,7 +41,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite" />
-  <span style="display:inline-block;text-align:center;vertical-align:top"><img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=threedotjs&logoColor=000000" width="40" height="40" alt="Three.js logo" /><br /><sub>Three.js</sub></span>
+  <span style="display:inline-block;background:#ffffff;padding:4px;border-radius:6px;line-height:0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" alt="Three.js logo" /></span>
   <img src="https://cdn.simpleicons.org/webgl/990000" width="40" height="40" alt="WebGL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
