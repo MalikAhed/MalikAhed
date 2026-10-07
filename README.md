@@ -35,20 +35,8 @@
 ## What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,vite,sqlite,threejs,python,git,githubactions&perline=7" alt="JavaScript, TypeScript, Node.js, React, HTML, CSS, Tailwind, Vite, SQLite, Three.js, Python, Git, and GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,vite,sqlite,threejs,webgl,python,git,githubactions" alt="Colorful SVG icons for JavaScript, TypeScript, Node.js, React, HTML, CSS, Tailwind, Vite, SQLite, Three.js, WebGL, Python, Git, and GitHub Actions" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">◌<br /><strong>Motion</strong><br /><sub>GSAP timelines</sub></td>
-    <td align="center">◉<br /><strong>Graphics</strong><br /><sub>WebGL + Three.js</sub></td>
-    <td align="center">◇<br /><strong>Testing</strong><br /><sub>Playwright flows</sub></td>
-    <td align="center">▣<br /><strong>Offline</strong><br /><sub>PWA delivery</sub></td>
-    <td align="center">♿<br /><strong>Access</strong><br /><sub>semantic UI</sub></td>
-  </tr>
-</table>
-
-<p align="center"><sub>Motion, graphics, testing, offline delivery, and accessibility are part of the product.</sub></p>
 
 ## Selected work
 
