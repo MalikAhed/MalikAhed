@@ -1,6 +1,6 @@
 <h1 align="center">Malik Abuallatta</h1>
 
-<p align="center"><strong>Full-stack developer</strong></p>
+<p align="center"><strong>Full-stack developer · Computer engineering student</strong></p>
 
 <table align="center">
   <tr>
