@@ -41,18 +41,17 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" width="40" height="40" alt="Three.js" />
+  <img src="https://api.iconify.design/simple-icons/threejs.svg?color=%23000000&background=%23ffffff" width="40" height="40" alt="Three.js" />
   <img src="https://cdn.simpleicons.org/webgl/990000" width="40" height="40" alt="WebGL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" />
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40" height="40" alt="GSAP" />
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="40" height="40" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright" />
   <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="40" height="40" alt="Progressive Web App" />
   <img src="https://cdn.simpleicons.org/webassembly/654FF0" width="40" height="40" alt="WebAssembly" />
-  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="40" height="40" alt="Unreal Engine" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" />
+  <img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000&background=%23ffffff" width="40" height="40" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI" />
 </p>
 
