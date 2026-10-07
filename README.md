@@ -17,7 +17,7 @@ Full-stack developer and product builder from Palestine. I build browser-first p
 | **[StockThink](https://github.com/MalikAhed/stockthink)** | Private, zero-server chess review in the browser using Stockfish WebAssembly, typed board facts and explainable move commentary. |
 | **[Portfolio World](https://github.com/MalikAhed/portfolio)** | A cinematic Three.js portfolio that treats navigation, composition and performance as product details. |
 | **[Rocket Arena Web](https://github.com/MalikAhed/rocket-arena-web)** | A compact browser car-soccer game with AI opponents and a playable web build. |
-| **[Sunward Strike](https://github.com/MalikAhed/sunward-strike)** | A browser FPS and stylized 3D map explorer built around an offline-first playable loop. |
+| **[Cube Burger](https://github.com/MalikAhed/cube-burger-site)** | An art-directed responsive restaurant landing page with strong visual composition and accessible structure. |
 | **[Water Studio](https://github.com/MalikAhed/water-studio)** | A Three.js island and underwater reef experiment focused on real-time materials and spatial interaction. |
 
 ## How I work
