@@ -68,16 +68,18 @@
 ## How I work
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#ffffff", "primaryTextColor": "#111827", "primaryBorderColor": "#111827", "lineColor": "#6b7280", "secondaryColor": "#ffffff", "tertiaryColor": "#ffffff"}}}%%
+%%{init: {"theme": "base", "flowchart": {"curve": "basis", "nodeSpacing": 55, "rankSpacing": 80}, "themeVariables": {"primaryColor": "#ffffff", "primaryTextColor": "#111827", "primaryBorderColor": "#374151", "lineColor": "#6b7280", "secondaryColor": "#ffffff", "tertiaryColor": "#ffffff"}}}%%
 flowchart LR
-    A[Understand the user] --> B[Write clear user stories]
-    B --> C[Shape the product flow]
-    C --> D[Build a responsive interface]
-    D --> E[Test real interactions]
-    E --> F[Document and refine]
+    A([Understand the user]) --> B([Write clear user stories])
+    B --> C([Shape the product flow])
+    C --> D([Build a responsive interface])
+    C --> E([Test real interactions])
+    D --> F([Document and refine])
+    E --> F
 
-    classDef clean fill:#ffffff,stroke:#111827,stroke-width:1px,color:#111827;
+    classDef clean fill:#ffffff,stroke:#374151,stroke-width:1px,color:#111827;
     class A,B,C,D,E,F clean;
+    linkStyle default stroke:#6b7280,stroke-width:1.5px;
 ```
 
 <p align="center"><strong>Open to full-stack, frontend, developer-tool, and educational technology opportunities.</strong></p>
