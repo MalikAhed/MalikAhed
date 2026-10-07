@@ -15,15 +15,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3>What I build</h3>
-      <p>I build practical browser products that make complex work feel clear: learning platforms, offline-first PWAs, developer tools, and interactive WebGL experiences.</p>
-      <p><strong>Khotwa</strong> is a structured learning workspace with source-grounded lessons, practice questions, worked solutions, review cards, and progress tracking.</p>
+      <p>I turn complex workflows into calm, useful browser products that help people learn, decide, and get things done.</p>
+      <p>My work spans learning platforms, offline-first PWAs, developer tools, and interactive WebGL experiences, with a focus on clear flows and thoughtful details.</p>
+      <p><strong>Khotwa</strong> is my main learning product: a structured workspace that connects trusted source material, practice, worked solutions, review cards, and measurable progress.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Currently focused on</h3>
       <ul>
-        <li>Fast, accessible interfaces with clear information architecture</li>
-        <li>Small systems that are easy to inspect and reproduce</li>
-        <li>Motion and interaction that clarify state</li>
+        <li>Turning real user stories into focused product experiences</li>
+        <li>Designing accessible interfaces with clear information architecture</li>
+        <li>Keeping systems small, inspectable, and easy to reproduce</li>
+        <li>Using motion and interaction to communicate state and purpose</li>
+        <li>Testing the details that make a product feel dependable</li>
       </ul>
     </td>
   </tr>
