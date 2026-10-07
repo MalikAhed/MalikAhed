@@ -1,115 +1,114 @@
-<p align="center"><img src="./assets/readme-grid.svg" alt="Malik Abuallatta — full-stack developer" width="100%" /></p>
+<div align="center">
 
-<p align="center"><a href="https://malikahed.github.io/portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/">LinkedIn</a> · <a href="mailto:malikabuallatta@gmail.com">Email</a></p>
+<img src="./assets/readme-grid.svg" alt="Malik Abuallatta — full-stack developer" width="100%" />
 
-<p align="center"><strong>I build calm, useful browser products for learning, play, and everyday workflows.</strong><br />Based in Palestine · open to full-stack, frontend, product engineering, and developer-tool work.</p>
+<p>
+<a href="https://malikahed.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=flat-square&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/"><img src="https://img.shields.io/badge/LinkedIn-3d3d3a?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+<a href="mailto:malikabuallatta@gmail.com"><img src="https://img.shields.io/badge/Email-555550?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+</p>
 
-<table>
+<h3>Calm interfaces for useful browser products.</h3>
+<p>Full-stack developer building learning tools, offline-first PWAs, explainable browser utilities, and interactive WebGL experiences from Palestine.</p>
+
+</div>
+
+<table border="1" bordercolor="#d2d2cc" cellpadding="14" cellspacing="0" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### What I build
+<td width="50%" valign="top" bgcolor="#fafaf8">
+<h3>What I build</h3>
 
 - Arabic-first learning tools with clear progress loops
 - Offline-capable PWAs that stay useful on imperfect connections
 - Explainable browser utilities and small developer systems
 - Interactive WebGL experiences with performance in mind
-
 </td>
-<td width="50%" valign="top">
-
-### What I care about
+<td width="50%" valign="top" bgcolor="#f3f3ef">
+<h3>What I care about</h3>
 
 - RTL interfaces that feel native, not translated
 - Motion that explains state instead of competing with it
 - Semantic, accessible UI with good keyboard paths
 - Documentation and tests that make work easy to trust
-
 </td>
 </tr>
 </table>
 
-## Selected work
+<h2>Selected work</h2>
+<p>A few products and experiments I keep coming back to.</p>
 
-<table>
+<table border="1" bordercolor="#c8c8c0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-<td colspan="2" valign="top">
-<img src="./tawjihi%20app%20khutwa.png" alt="Khotwa Tawjihi learning app dashboard" width="100%" />
-
-**[Khotwa · Tawjihi Learning App](https://malikahed.github.io/tawjihi-learning-app/)**  
-An Arabic-first learning workspace for Palestinian Tawjihi students: structured lessons, practice questions, worked solutions, review cards, and progress tracking.
+<td width="50%" valign="top" bgcolor="#fafaf8">
+<a href="https://malikahed.github.io/tawjihi-learning-app/"><img src="./tawjihi%20app%20khutwa.png" alt="Khotwa Tawjihi learning app" width="100%" /></a>
+<h3><a href="https://malikahed.github.io/tawjihi-learning-app/">Khotwa · Tawjihi Learning App</a></h3>
+<p>Arabic-first learning workspace for Palestinian Tawjihi students with structured lessons, practice questions, worked solutions, review cards, and progress tracking.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/PWA-3d3d3a?style=flat-square&logo=pwa&logoColor=ffffff" alt="PWA" /> <img src="https://img.shields.io/badge/RTL-555550?style=flat-square" alt="RTL" /></p>
+</td>
+<td width="50%" valign="top" bgcolor="#f3f3ef">
+<a href="https://malikahed.github.io/Murajaa/"><img src="./muraja.png" alt="Murajaa Arabic flashcard app" width="100%" /></a>
+<h3><a href="https://malikahed.github.io/Murajaa/">Murajaa</a></h3>
+<p>Offline-first Arabic flashcards with spaced repetition, RTL support, progress tracking, and JSON import/export.</p>
+<p><img src="https://img.shields.io/badge/HTML-2b2b2b?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" /> <img src="https://img.shields.io/badge/Offline--first-3d3d3a?style=flat-square" alt="Offline first" /> <img src="https://img.shields.io/badge/Accessibility-555550?style=flat-square" alt="Accessibility" /></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="./muraja.png" alt="Murajaa Arabic flashcard app" width="100%" />
-
-**[Murajaa](https://malikahed.github.io/Murajaa/)**  
-Offline-first Arabic flashcards with spaced repetition, RTL support, and JSON import/export.
+<td width="50%" valign="top" bgcolor="#f3f3ef">
+<a href="https://malikahed.github.io/stockthink/"><img src="./stockthink.png" alt="StockThink chess analysis" width="100%" /></a>
+<h3><a href="https://malikahed.github.io/stockthink/">StockThink</a></h3>
+<p>Private, zero-server chess analysis in the browser using Stockfish WebAssembly and explainable move commentary.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/WebAssembly-3d3d3a?style=flat-square" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Stockfish-555550?style=flat-square" alt="Stockfish" /></p>
 </td>
-<td width="50%" valign="top">
-<img src="./stockthink.png" alt="StockThink chess analysis landing page" width="100%" />
-
-**[StockThink](https://malikahed.github.io/stockthink/)**  
-Private, zero-server chess analysis with Stockfish WebAssembly and explainable move commentary.
+<td width="50%" valign="top" bgcolor="#fafaf8">
+<a href="https://malikahed.github.io/portfolio/"><img src="./portfolio.png" alt="Portfolio World interactive portfolio" width="100%" /></a>
+<h3><a href="https://malikahed.github.io/portfolio/">Portfolio World</a></h3>
+<p>A cinematic Three.js portfolio for selected browser products, experiments, and case-study links.</p>
+<p><img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=ffffff" alt="Three.js" /> <img src="https://img.shields.io/badge/WebGL-3d3d3a?style=flat-square" alt="WebGL" /> <img src="https://img.shields.io/badge/GSAP-555550?style=flat-square" alt="GSAP" /></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="./portfolio.png" alt="Portfolio World interactive portfolio" width="100%" />
-
-**[Portfolio World](https://malikahed.github.io/portfolio/)**  
-A Three.js/WebGL portfolio focused on interaction design, composition, and performance.
+<td width="50%" valign="top" bgcolor="#fafaf8">
+<a href="https://malikahed.github.io/rocket-arena-web/"><img src="./rocket%20arena.png" alt="Rocket Arena browser game" width="100%" /></a>
+<h3><a href="https://malikahed.github.io/rocket-arena-web/">Rocket Arena Web</a></h3>
+<p>A compact browser car-soccer game with AI opponents, responsive controls, and a complete web build.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" /> <img src="https://img.shields.io/badge/Game%20AI-3d3d3a?style=flat-square" alt="Game AI" /> <img src="https://img.shields.io/badge/Canvas-555550?style=flat-square" alt="Canvas" /></p>
 </td>
-<td width="50%" valign="top">
-<img src="./rocket%20arena.png" alt="Rocket Arena browser game menu" width="100%" />
-
-**[Rocket Arena Web](https://malikahed.github.io/rocket-arena-web/)**  
-A playable browser game with AI opponents and a complete web build.
+<td width="50%" valign="top" bgcolor="#f3f3ef">
+<a href="https://github.com/MalikAhed/our-version-of-black-hole"><img src="./assets/readme-grid.svg" alt="Our version of a black hole" width="100%" /></a>
+<h3><a href="https://github.com/MalikAhed/our-version-of-black-hole">Our Version of a Black Hole</a></h3>
+<p>Interactive Schwarzschild black hole experiment with procedural line paths, Three.js, and Unreal Bloom.</p>
+<p><img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=ffffff" alt="Three.js" /> <img src="https://img.shields.io/badge/WebGL-3d3d3a?style=flat-square" alt="WebGL" /> <img src="https://img.shields.io/badge/Experiment-555550?style=flat-square" alt="Experiment" /></p>
 </td>
 </tr>
 </table>
 
-## Toolbelt
+<h2>Toolbelt</h2>
+<p>Tools I use to move from a rough idea to a clear, working interface.</p>
 
-<p align="center"><img src="./assets/toolbelt-bar.svg" alt="Animated technology bar" width="100%" /></p>
-
-<table>
+<table border="1" bordercolor="#d2d2cc" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" alt="JavaScript" width="30" height="30" /><br /><sub>JavaScript</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:typescript.svg?color=%233178C6" alt="TypeScript" width="30" height="30" /><br /><sub>TypeScript</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:react.svg?color=%2361DAFB" alt="React" width="30" height="30" /><br /><sub>React</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23339933" alt="Node.js" width="30" height="30" /><br /><sub>Node.js</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" alt="HTML5" width="30" height="30" /><br /><sub>HTML</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:css3.svg?color=%231572B6" alt="CSS3" width="30" height="30" /><br /><sub>CSS</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2306B6D4" alt="Tailwind CSS" width="30" height="30" /><br /><sub>Tailwind</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:vite.svg?color=%23646CFF" alt="Vite" width="30" height="30" /><br /><sub>Vite</sub></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" /></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/TypeScript-3d3d3a?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" /></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/React-555550?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" /></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/Node.js-2b2b2b?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" /></td>
 </tr>
 <tr>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23003B57" alt="SQLite" width="30" height="30" /><br /><sub>SQLite</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" width="30" height="30" /><br /><sub>Python</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" width="30" height="30" /><br /><sub>Git</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="GitHub Actions" width="30" height="30" /><br /><sub>Actions</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:threedotjs.svg?color=%23000000" alt="Three.js" width="30" height="30" /><br /><sub>Three.js</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:greensock.svg?color=%2388CE02" alt="GSAP" width="30" height="30" /><br /><sub>GSAP</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:webgl.svg?color=%23990000" alt="WebGL" width="30" height="30" /><br /><sub>WebGL</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:playwright.svg?color=%232EAD33" alt="Playwright" width="30" height="30" /><br /><sub>Playwright</sub></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/Vite-3d3d3a?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite" /></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/Three.js-555550?style=for-the-badge&logo=threedotjs&logoColor=ffffff" alt="Three.js" /></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" /></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/SQLite-3d3d3a?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" /></td>
 </tr>
 <tr>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:pwa.svg?color=%235A0FC8" alt="Progressive Web Apps" width="30" height="30" /><br /><sub>PWA</sub></td>
-<td align="center" valign="top"><img src="https://api.iconify.design/simple-icons:accessibility.svg?color=%23005A9C" alt="Accessibility" width="30" height="30" /><br /><sub>Accessibility</sub></td>
-<td colspan="6" align="left" valign="middle"><sub>Motion, graphics, testing, offline delivery, and accessibility are part of the product—not polish added at the end.</sub></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/GSAP-555550?style=for-the-badge&logo=greensock&logoColor=ffffff" alt="GSAP" /></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/WebGL-2b2b2b?style=for-the-badge&logo=webgl&logoColor=ffffff" alt="WebGL" /></td>
+<td align="center" bgcolor="#fafaf8"><img src="https://img.shields.io/badge/Playwright-3d3d3a?style=for-the-badge&logo=playwright&logoColor=ffffff" alt="Playwright" /></td>
+<td align="center" bgcolor="#f3f3ef"><img src="https://img.shields.io/badge/GitHub%20Actions-555550?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" /></td>
 </tr>
 </table>
 
-<details>
-<summary><strong>How I work</strong></summary>
+<h2>Let’s connect</h2>
+<p>I’m always happy to talk about product ideas, thoughtful interfaces, and browser-native software.</p>
+<p><a href="https://github.com/MalikAhed"><img src="https://img.shields.io/badge/GitHub-2b2b2b?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/"><img src="https://img.shields.io/badge/LinkedIn-3d3d3a?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a> <a href="mailto:malikabuallatta@gmail.com"><img src="https://img.shields.io/badge/malikabuallatta%40gmail.com-555550?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" /></a></p>
 
-1. Ship a clear product loop before adding more surface area.
-2. Keep interfaces responsive, semantic, and accessible.
-3. Prefer small systems that are easy to inspect and reproduce.
-4. Use source provenance, tests, and documentation to make decisions easier to trust.
-
-</details>
-
-<p align="center"><sub>Thanks for stopping by. If you are building something useful, I would be glad to hear about it.</sub></p>
+<hr />
+<p align="center"><sub>Built with care in Palestine · Motion, testing, offline delivery, and accessibility are part of the product.</sub></p>
