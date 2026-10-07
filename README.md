@@ -2,15 +2,14 @@
 
 <p align="center"><strong>Full-stack developer</strong></p>
 
-<p align="center">
-  <a href="https://malikahed.github.io/portfolio/"><img src="https://api.iconify.design/mdi/account.svg?color=%237C3AED" width="24" height="24" alt="Portfolio" /> Portfolio</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="24" height="24" alt="LinkedIn" /> LinkedIn</a>
-  &nbsp;&nbsp;
-  <a href="mailto:malikabuallatta@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="24" height="24" alt="Email" /> Email</a>
-  &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?text=Hi%20Malik"><img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%2325D366" width="24" height="24" alt="WhatsApp" /> WhatsApp</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://malikahed.github.io/portfolio/"><img src="https://api.iconify.design/mdi/account.svg?color=%237C3AED" width="28" height="28" alt="Portfolio" /><br /><strong>Portfolio</strong></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/malik-abuallatta-a6849a37b/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn" /><br /><strong>LinkedIn</strong></a></td>
+    <td align="center"><a href="mailto:malikabuallatta@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="28" height="28" alt="Email" /><br /><strong>Email</strong></a></td>
+    <td align="center"><a href="https://api.whatsapp.com/send?text=Hi%20Malik"><img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%2325D366" width="28" height="28" alt="WhatsApp" /><br /><strong>WhatsApp</strong></a></td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -47,6 +46,14 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40" height="40" alt="GSAP" />
+  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="40" height="40" alt="Playwright" />
+  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="40" height="40" alt="Progressive Web App" />
+  <img src="https://cdn.simpleicons.org/webassembly/654FF0" width="40" height="40" alt="WebAssembly" />
+  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="40" height="40" alt="Unreal Engine" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI" />
 </p>
 
 ## Selected work
@@ -64,6 +71,7 @@
 - Ship a clear product before adding more surface area.
 - Keep interfaces responsive, semantic, and accessible.
 - Prefer small systems that are easy to inspect and reproduce.
+- Write clear user stories before shaping the interface.
 - Use documentation, tests, and source provenance to make work easier to trust.
 
-<p align="center"><strong>Open to full-stack, frontend, product engineering, developer-tool, and educational technology opportunities.</strong></p>
+<p align="center"><strong>Open to full-stack, frontend, developer-tool, and educational technology opportunities.</strong></p>
