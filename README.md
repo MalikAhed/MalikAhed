@@ -28,6 +28,7 @@ I turn complex workflows into clear, fast web products. My work combines JavaScr
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111" alt="GSAP" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="Progressive Web Apps" />
   <img src="https://img.shields.io/badge/Accessibility-005A9C?style=flat-square&logo=accessibility&logoColor=white" alt="Accessibility" />
