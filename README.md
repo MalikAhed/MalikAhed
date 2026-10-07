@@ -1,35 +1,38 @@
-# Hi, I'm Malik
+# Malik Abuallatta
 
-I'm a full-stack web developer focused on useful products, polished interfaces, and browser-first experiences. I enjoy turning ambitious ideas into responsive, accessible software that people can use immediately.
+Full-stack developer and product builder from Palestine. I build browser-first products that make difficult work feel clear, useful and well crafted.
 
-**[View my portfolio →](https://malikahed.github.io/portfolio/)**
+> **Khotwa is my current startup** — an Arabic-first Tawjihi learning platform for Palestinian students.
+
+[Visit my portfolio →](https://malikahed.github.io/portfolio/)
+
+## What I’m building
+
+**[Khotwa · Tawjihi Learning App](https://github.com/MalikAhed/tawjihi-learning-app)** is the main project on my GitHub. It turns official Palestinian Tawjihi material into a source-grounded RTL learning experience with questions, worked solutions, review cards and progress tracking. The live preview is at [malikahed.github.io/tawjihi-learning-app](https://malikahed.github.io/tawjihi-learning-app/).
 
 ## Selected work
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **Canvas Studio** | Arrange editable canvases, annotate PDFs, and record presentations directly in the browser. | [Live demo](https://malikahed.github.io/canvas/) · [Source](https://github.com/MalikAhed/canvas) |
-| **StockThink** | Free, private chess game review powered by Stockfish in the browser. | [Source](https://github.com/MalikAhed/stockthink) |
-| **Cube Burger** | An art-directed restaurant landing page built for strong responsive composition. | [Live demo](https://malikahed.github.io/cube-burger-site/) · [Source](https://github.com/MalikAhed/cube-burger-site) |
-| **Murajaa** | An Arabic-first study companion for Palestinian Tawjihi students, with offline PWA support. | [Live demo](https://malikahed.github.io/Murajaa/) · [Source](https://github.com/MalikAhed/Murajaa) |
-| **Zen Cleaning** | A responsive service website with clear offerings and booking-focused UX. | [Live demo](https://malikahed.github.io/zen/) · [Source](https://github.com/MalikAhed/zen) |
+| Project | What it shows |
+| --- | --- |
+| **[StockThink](https://github.com/MalikAhed/stockthink)** | Private, zero-server chess review in the browser using Stockfish WebAssembly, typed board facts and explainable move commentary. |
+| **[Portfolio World](https://github.com/MalikAhed/portfolio)** | A cinematic Three.js portfolio that treats navigation, composition and performance as product details. |
+| **[Rocket Arena Web](https://github.com/MalikAhed/rocket-arena-web)** | A compact browser car-soccer game with AI opponents and a playable web build. |
+| **[Sunward Strike](https://github.com/MalikAhed/sunward-strike)** | A browser FPS and stylized 3D map explorer built around an offline-first playable loop. |
+| **[Water Studio](https://github.com/MalikAhed/water-studio)** | A Three.js island and underwater reef experiment focused on real-time materials and spatial interaction. |
 
-## What I work with
+## How I work
 
-`JavaScript` · `Node.js` · `Express` · `HTML` · `CSS` · `Git` · `Responsive design` · `Accessibility`
+- Ship a clear product loop before adding more surface area.
+- Keep interfaces responsive, semantic and accessible.
+- Prefer small, inspectable systems with reproducible setup and honest boundaries.
+- Use documentation, tests and source provenance to make work easier to trust.
 
-## How I build
+## Tools
 
-- Product thinking before feature count
-- Responsive behavior across phones, tablets, and desktops
-- Accessible, semantic interfaces with progressive enhancement
-- Clear documentation and reproducible setup
+`JavaScript` · `TypeScript` · `Node.js` · `HTML` · `CSS` · `Three.js` · `WebGL` · `SQLite` · `Vite` · `GitHub Actions`
 
-I'm currently improving my full-stack craft and building projects that solve real problems. You can explore the repositories above or follow my latest work here on GitHub.
+I’m open to conversations about full-stack product work, browser experiences, educational technology and applied AI.
 
 ## License
 
-Original contributions by Malik Abuallatta are licensed under the
-[MIT License](LICENSE). Third-party code, adaptations, dependencies, and assets
-retain their existing licenses and notices. This license does not grant new
-rights to third-party material.
+Original contributions by Malik Abuallatta are licensed under the [MIT License](LICENSE). Third-party code, adaptations, dependencies and assets retain their own licenses and notices.
