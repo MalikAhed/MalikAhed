@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=220&section=header&text=Malik%20Abuallatta&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-stack%20developer%20%C2%B7%20product%20builder%20%C2%B7%20WebGL%20tinkerer&descAlignY=57&descSize=16&animation=twinkling" alt="Animated gradient header for Malik Abuallatta" width="100%" />
+  <img src="./assets/hero.svg" alt="Animated orbit artwork for Malik Abuallatta" width="100%" />
 </p>
 
 <p align="center">
@@ -38,13 +38,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,vite,sqlite,threejs,python,git,githubactions&perline=7" alt="JavaScript, TypeScript, Node.js, React, HTML, CSS, Tailwind, Vite, SQLite, Three.js, Python, Git, and GitHub Actions" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="34" height="34" alt="GSAP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/webgl/990000" width="34" height="34" alt="WebGL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="34" height="34" alt="Playwright" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="34" height="34" alt="Progressive Web Apps" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/accessibility/005A9C" width="34" height="34" alt="Accessibility" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">◌<br /><strong>Motion</strong><br /><sub>GSAP timelines</sub></td>
+    <td align="center">◉<br /><strong>Graphics</strong><br /><sub>WebGL + Three.js</sub></td>
+    <td align="center">◇<br /><strong>Testing</strong><br /><sub>Playwright flows</sub></td>
+    <td align="center">▣<br /><strong>Offline</strong><br /><sub>PWA delivery</sub></td>
+    <td align="center">♿<br /><strong>Access</strong><br /><sub>semantic UI</sub></td>
+  </tr>
+</table>
 
 <p align="center"><sub>Motion, graphics, testing, offline delivery, and accessibility are part of the product.</sub></p>
 
